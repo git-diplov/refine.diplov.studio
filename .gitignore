@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+.vercel/
+.claude/
+.kilocode/
+.kiro/
+*.log
+.DS_Store
